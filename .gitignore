@@ -1,0 +1,38 @@
+# 🔹 Python Cache Files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+
+# 🔹 Virtual Environments (Windows/macOS)
+venv/
+.env
+.venv/
+env/
+*.egg-info/
+
+# 🔹 Jupyter Notebooks Checkpoints (if used)
+.ipynb_checkpoints/
+
+# 🔹 Hugging Face Model Cache (if downloaded separately)
+~/.cache/huggingface/
+
+# 🔹 Model Files (Only if you want to exclude them from Git) ghjk
+models/t5_finetuned/
+
+# 🔹 Dataset Files (Prevent pushing large datasets)
+data/train_dataset.json
+data/preprocessed_dataset.json
+data/metadata.json
+data/training_dataset/
+
+# 🔹 Logs & Temporary Files
+logs/
+*.log
+debug.log
+error.log
+
+# 🔹 System-Specific Files (Windows & macOS)
+.DS_Store
+Thumbs.db

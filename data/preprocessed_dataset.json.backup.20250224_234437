@@ -1,0 +1,252 @@
+[
+    {
+        "command": "Change 'January' to 'February'",
+        "original_text": "The quarterly meeting is scheduled for january 15th, 2024. • Key topics include budget review • Project milestones • Team performance metrics This document is confidential.",
+        "modified_text": "The quarterly meeting is scheduled for february 15th, 2024. • Key topics include budget review • Project milestones • Team performance metrics This document is confidential."
+    },
+    {
+        "command": "Capitalize all words",
+        "original_text": "customer feedback summary:\n1. product quality needs improvement\n2. service response time is slow\n3. pricing is competitive\naction items will be discussed in the next meeting.",
+        "modified_text": "Customer Feedback Summary: 1. Product Quality Needs Improvement 2. Service Response Time Is Slow 3. Pricing Is Competitive Action Items Will Be Discussed In The Next Meeting."
+    },
+    {
+        "command": "Remove the last sentence",
+        "original_text": "urgent: system maintenance notification\ndowntime scheduled for 10:00 PM EST\nexpected duration: 2 hours\nplease save all work and log off before maintenance begins.",
+        "modified_text": "urgent: system maintenance notification\ndowntime scheduled for 10:00 PM EST\nexpected duration: 2 hours\nplease save all work and log off before maintenance begins."
+    },
+    {
+        "command": "Replace 'CEO' with 'Managing Director'",
+        "original_text": "project status report - phase 1\n• development completed: 75%\n• bugs identified: 23\n• timeline: on track\nthe CEO will present updates next week.",
+        "modified_text": "project status report - phase 1\n• development completed: 75%\n• bugs identified: 23\n• timeline: on track\nthe Managing Director will present updates next week."
+    },
+    {
+        "command": "Remove bullet points",
+        "original_text": "meeting minutes - department review\n• attendance: 15 team members\n• budget status: under review\n• upcoming deadlines: march project delivery\nThis document is confidential.",
+        "modified_text": "meeting minutes - department review\n attendance: 15 team members\n budget status: under review\n upcoming deadlines: march project delivery\nThis document is confidential."
+    },
+    {
+        "command": "Convert to uppercase",
+        "original_text": "customer feedback summary:\n1. product quality needs improvement\n2. service response time is slow\n3. pricing is competitive\naction items will be discussed in the next meeting.",
+        "modified_text": "CUSTOMER FEEDBACK SUMMARY:\n1. PRODUCT QUALITY NEEDS IMPROVEMENT\n2. SERVICE RESPONSE TIME IS SLOW\n3. PRICING IS COMPETITIVE\nACTION ITEMS WILL BE DISCUSSED IN THE NEXT MEETING."
+    },
+    {
+        "command": "Remove bullet points",
+        "original_text": "meeting minutes - department review\n• attendance: 15 team members\n• budget status: under review\n• upcoming deadlines: march project delivery\nThis document is confidential.",
+        "modified_text": "meeting minutes - department review\n attendance: 15 team members\n budget status: under review\n upcoming deadlines: march project delivery\nThis document is confidential."
+    },
+    {
+        "command": "Capitalize all words",
+        "original_text": "urgent: system maintenance notification\ndowntime scheduled for 10:00 PM EST\nexpected duration: 2 hours\nplease save all work and log off before maintenance begins.",
+        "modified_text": "Urgent: System Maintenance Notification Downtime Scheduled For 10:00 Pm Est Expected Duration: 2 Hours Please Save All Work And Log Off Before Maintenance Begins."
+    },
+    {
+        "command": "Remove numbers",
+        "original_text": "urgent: system maintenance notification\ndowntime scheduled for 10:00 PM EST\nexpected duration: 2 hours\nplease save all work and log off before maintenance begins.",
+        "modified_text": "urgent: system maintenance notification\ndowntime scheduled for : PM EST\nexpected duration:  hours\nplease save all work and log off before maintenance begins."
+    },
+    {
+        "command": "Delete all occurrences of 'confidential'",
+        "original_text": "The quarterly meeting is scheduled for january 15th, 2024. • Key topics include budget review • Project milestones • Team performance metrics This document is confidential.",
+        "modified_text": "The quarterly meeting is scheduled for january 15th, 2024. • Key topics include budget review • Project milestones • Team performance metrics This document is ."
+    },
+    {
+        "command": "Delete all occurrences of 'confidential'",
+        "original_text": "The quarterly meeting is scheduled for january 15th, 2024. • Key topics include budget review • Project milestones • Team performance metrics This document is confidential.",
+        "modified_text": "The quarterly meeting is scheduled for january 15th, 2024. • Key topics include budget review • Project milestones • Team performance metrics This document is ."
+    },
+    {
+        "command": "Remove the last sentence",
+        "original_text": "urgent: system maintenance notification\ndowntime scheduled for 10:00 PM EST\nexpected duration: 2 hours\nplease save all work and log off before maintenance begins.",
+        "modified_text": "urgent: system maintenance notification\ndowntime scheduled for 10:00 PM EST\nexpected duration: 2 hours\nplease save all work and log off before maintenance begins."
+    },
+    {
+        "command": "Convert to uppercase",
+        "original_text": "customer feedback summary:\n1. product quality needs improvement\n2. service response time is slow\n3. pricing is competitive\naction items will be discussed in the next meeting.",
+        "modified_text": "CUSTOMER FEEDBACK SUMMARY:\n1. PRODUCT QUALITY NEEDS IMPROVEMENT\n2. SERVICE RESPONSE TIME IS SLOW\n3. PRICING IS COMPETITIVE\nACTION ITEMS WILL BE DISCUSSED IN THE NEXT MEETING."
+    },
+    {
+        "command": "Replace 'CEO' with 'Managing Director'",
+        "original_text": "project status report - phase 1\n• development completed: 75%\n• bugs identified: 23\n• timeline: on track\nthe CEO will present updates next week.",
+        "modified_text": "project status report - phase 1\n• development completed: 75%\n• bugs identified: 23\n• timeline: on track\nthe Managing Director will present updates next week."
+    },
+    {
+        "command": "Capitalize all words",
+        "original_text": "customer feedback summary:\n1. product quality needs improvement\n2. service response time is slow\n3. pricing is competitive\naction items will be discussed in the next meeting.",
+        "modified_text": "Customer Feedback Summary: 1. Product Quality Needs Improvement 2. Service Response Time Is Slow 3. Pricing Is Competitive Action Items Will Be Discussed In The Next Meeting."
+    },
+    {
+        "command": "Remove bullet points",
+        "original_text": "The quarterly meeting is scheduled for january 15th, 2024. • Key topics include budget review • Project milestones • Team performance metrics This document is confidential.",
+        "modified_text": "The quarterly meeting is scheduled for january 15th, 2024.  Key topics include budget review  Project milestones  Team performance metrics This document is confidential."
+    },
+    {
+        "command": "Remove numbers",
+        "original_text": "project status report - phase 1\n• development completed: 75%\n• bugs identified: 23\n• timeline: on track\nthe CEO will present updates next week.",
+        "modified_text": "project status report - phase \n• development completed: %\n• bugs identified: \n• timeline: on track\nthe CEO will present updates next week."
+    },
+    {
+        "command": "Replace 'project' with 'assignment'",
+        "original_text": "project status report - phase 1\n• development completed: 75%\n• bugs identified: 23\n• timeline: on track\nthe CEO will present updates next week.",
+        "modified_text": "assignment status report - phase 1\n• development completed: 75%\n• bugs identified: 23\n• timeline: on track\nthe CEO will present updates next week."
+    },
+    {
+        "command": "Remove numbers",
+        "original_text": "project status report - phase 1\n• development completed: 75%\n• bugs identified: 23\n• timeline: on track\nthe CEO will present updates next week.",
+        "modified_text": "project status report - phase \n• development completed: %\n• bugs identified: \n• timeline: on track\nthe CEO will present updates next week."
+    },
+    {
+        "command": "Capitalize all words",
+        "original_text": "urgent: system maintenance notification\ndowntime scheduled for 10:00 PM EST\nexpected duration: 2 hours\nplease save all work and log off before maintenance begins.",
+        "modified_text": "Urgent: System Maintenance Notification Downtime Scheduled For 10:00 Pm Est Expected Duration: 2 Hours Please Save All Work And Log Off Before Maintenance Begins."
+    },
+    {
+        "command": "Delete all occurrences of 'confidential'",
+        "original_text": "The quarterly meeting is scheduled for january 15th, 2024. • Key topics include budget review • Project milestones • Team performance metrics This document is confidential.",
+        "modified_text": "The quarterly meeting is scheduled for january 15th, 2024. • Key topics include budget review • Project milestones • Team performance metrics This document is ."
+    },
+    {
+        "command": "Remove the first paragraph",
+        "original_text": "customer feedback summary:\n1. product quality needs improvement\n2. service response time is slow\n3. pricing is competitive\naction items will be discussed in the next meeting.",
+        "modified_text": "customer feedback summary:\n1. product quality needs improvement\n2. service response time is slow\n3. pricing is competitive\naction items will be discussed in the next meeting."
+    },
+    {
+        "command": "Remove numbers",
+        "original_text": "urgent: system maintenance notification\ndowntime scheduled for 10:00 PM EST\nexpected duration: 2 hours\nplease save all work and log off before maintenance begins.",
+        "modified_text": "urgent: system maintenance notification\ndowntime scheduled for : PM EST\nexpected duration:  hours\nplease save all work and log off before maintenance begins."
+    },
+    {
+        "command": "Replace 'project' with 'assignment'",
+        "original_text": "project status report - phase 1\n• development completed: 75%\n• bugs identified: 23\n• timeline: on track\nthe CEO will present updates next week.",
+        "modified_text": "assignment status report - phase 1\n• development completed: 75%\n• bugs identified: 23\n• timeline: on track\nthe CEO will present updates next week."
+    },
+    {
+        "command": "Remove bullet points",
+        "original_text": "The quarterly meeting is scheduled for january 15th, 2024. • Key topics include budget review • Project milestones • Team performance metrics This document is confidential.",
+        "modified_text": "The quarterly meeting is scheduled for january 15th, 2024.  Key topics include budget review  Project milestones  Team performance metrics This document is confidential."
+    },
+    {
+        "command": "Convert to uppercase",
+        "original_text": "meeting minutes - department review\n• attendance: 15 team members\n• budget status: under review\n• upcoming deadlines: march project delivery\nThis document is confidential.",
+        "modified_text": "MEETING MINUTES - DEPARTMENT REVIEW\n• ATTENDANCE: 15 TEAM MEMBERS\n• BUDGET STATUS: UNDER REVIEW\n• UPCOMING DEADLINES: MARCH PROJECT DELIVERY\nTHIS DOCUMENT IS CONFIDENTIAL."
+    },
+    {
+        "command": "Change 'January' to 'February'",
+        "original_text": "The quarterly meeting is scheduled for january 15th, 2024. • Key topics include budget review • Project milestones • Team performance metrics This document is confidential.",
+        "modified_text": "The quarterly meeting is scheduled for february 15th, 2024. • Key topics include budget review • Project milestones • Team performance metrics This document is confidential."
+    },
+    {
+        "command": "Delete all occurrences of 'confidential'",
+        "original_text": "The quarterly meeting is scheduled for january 15th, 2024. • Key topics include budget review • Project milestones • Team performance metrics This document is confidential.",
+        "modified_text": "The quarterly meeting is scheduled for january 15th, 2024. • Key topics include budget review • Project milestones • Team performance metrics This document is ."
+    },
+    {
+        "command": "Delete all occurrences of 'confidential'",
+        "original_text": "The quarterly meeting is scheduled for january 15th, 2024. • Key topics include budget review • Project milestones • Team performance metrics This document is confidential.",
+        "modified_text": "The quarterly meeting is scheduled for january 15th, 2024. • Key topics include budget review • Project milestones • Team performance metrics This document is ."
+    },
+    {
+        "command": "Remove the first paragraph",
+        "original_text": "customer feedback summary:\n1. product quality needs improvement\n2. service response time is slow\n3. pricing is competitive\naction items will be discussed in the next meeting.",
+        "modified_text": "customer feedback summary:\n1. product quality needs improvement\n2. service response time is slow\n3. pricing is competitive\naction items will be discussed in the next meeting."
+    },
+    {
+        "command": "Remove bullet points",
+        "original_text": "The quarterly meeting is scheduled for january 15th, 2024. • Key topics include budget review • Project milestones • Team performance metrics This document is confidential.",
+        "modified_text": "The quarterly meeting is scheduled for january 15th, 2024.  Key topics include budget review  Project milestones  Team performance metrics This document is confidential."
+    },
+    {
+        "command": "Remove the first paragraph",
+        "original_text": "customer feedback summary:\n1. product quality needs improvement\n2. service response time is slow\n3. pricing is competitive\naction items will be discussed in the next meeting.",
+        "modified_text": "customer feedback summary:\n1. product quality needs improvement\n2. service response time is slow\n3. pricing is competitive\naction items will be discussed in the next meeting."
+    },
+    {
+        "command": "Remove the first paragraph",
+        "original_text": "customer feedback summary:\n1. product quality needs improvement\n2. service response time is slow\n3. pricing is competitive\naction items will be discussed in the next meeting.",
+        "modified_text": "customer feedback summary:\n1. product quality needs improvement\n2. service response time is slow\n3. pricing is competitive\naction items will be discussed in the next meeting."
+    },
+    {
+        "command": "Remove numbers",
+        "original_text": "project status report - phase 1\n• development completed: 75%\n• bugs identified: 23\n• timeline: on track\nthe CEO will present updates next week.",
+        "modified_text": "project status report - phase \n• development completed: %\n• bugs identified: \n• timeline: on track\nthe CEO will present updates next week."
+    },
+    {
+        "command": "Convert to uppercase",
+        "original_text": "meeting minutes - department review\n• attendance: 15 team members\n• budget status: under review\n• upcoming deadlines: march project delivery\nThis document is confidential.",
+        "modified_text": "MEETING MINUTES - DEPARTMENT REVIEW\n• ATTENDANCE: 15 TEAM MEMBERS\n• BUDGET STATUS: UNDER REVIEW\n• UPCOMING DEADLINES: MARCH PROJECT DELIVERY\nTHIS DOCUMENT IS CONFIDENTIAL."
+    },
+    {
+        "command": "Replace 'CEO' with 'Managing Director'",
+        "original_text": "project status report - phase 1\n• development completed: 75%\n• bugs identified: 23\n• timeline: on track\nthe CEO will present updates next week.",
+        "modified_text": "project status report - phase 1\n• development completed: 75%\n• bugs identified: 23\n• timeline: on track\nthe Managing Director will present updates next week."
+    },
+    {
+        "command": "Remove numbers",
+        "original_text": "urgent: system maintenance notification\ndowntime scheduled for 10:00 PM EST\nexpected duration: 2 hours\nplease save all work and log off before maintenance begins.",
+        "modified_text": "urgent: system maintenance notification\ndowntime scheduled for : PM EST\nexpected duration:  hours\nplease save all work and log off before maintenance begins."
+    },
+    {
+        "command": "Change 'January' to 'February'",
+        "original_text": "The quarterly meeting is scheduled for january 15th, 2024. • Key topics include budget review • Project milestones • Team performance metrics This document is confidential.",
+        "modified_text": "The quarterly meeting is scheduled for february 15th, 2024. • Key topics include budget review • Project milestones • Team performance metrics This document is confidential."
+    },
+    {
+        "command": "Remove bullet points",
+        "original_text": "The quarterly meeting is scheduled for january 15th, 2024. • Key topics include budget review • Project milestones • Team performance metrics This document is confidential.",
+        "modified_text": "The quarterly meeting is scheduled for january 15th, 2024.  Key topics include budget review  Project milestones  Team performance metrics This document is confidential."
+    },
+    {
+        "command": "Delete all occurrences of 'confidential'",
+        "original_text": "The quarterly meeting is scheduled for january 15th, 2024. • Key topics include budget review • Project milestones • Team performance metrics This document is confidential.",
+        "modified_text": "The quarterly meeting is scheduled for january 15th, 2024. • Key topics include budget review • Project milestones • Team performance metrics This document is ."
+    },
+    {
+        "command": "Remove numbers",
+        "original_text": "urgent: system maintenance notification\ndowntime scheduled for 10:00 PM EST\nexpected duration: 2 hours\nplease save all work and log off before maintenance begins.",
+        "modified_text": "urgent: system maintenance notification\ndowntime scheduled for : PM EST\nexpected duration:  hours\nplease save all work and log off before maintenance begins."
+    },
+    {
+        "command": "Change 'January' to 'February'",
+        "original_text": "The quarterly meeting is scheduled for january 15th, 2024. • Key topics include budget review • Project milestones • Team performance metrics This document is confidential.",
+        "modified_text": "The quarterly meeting is scheduled for february 15th, 2024. • Key topics include budget review • Project milestones • Team performance metrics This document is confidential."
+    },
+    {
+        "command": "Remove bullet points",
+        "original_text": "The quarterly meeting is scheduled for january 15th, 2024. • Key topics include budget review • Project milestones • Team performance metrics This document is confidential.",
+        "modified_text": "The quarterly meeting is scheduled for january 15th, 2024.  Key topics include budget review  Project milestones  Team performance metrics This document is confidential."
+    },
+    {
+        "command": "Replace 'CEO' with 'Managing Director'",
+        "original_text": "project status report - phase 1\n• development completed: 75%\n• bugs identified: 23\n• timeline: on track\nthe CEO will present updates next week.",
+        "modified_text": "project status report - phase 1\n• development completed: 75%\n• bugs identified: 23\n• timeline: on track\nthe Managing Director will present updates next week."
+    },
+    {
+        "command": "Remove bullet points",
+        "original_text": "The quarterly meeting is scheduled for january 15th, 2024. • Key topics include budget review • Project milestones • Team performance metrics This document is confidential.",
+        "modified_text": "The quarterly meeting is scheduled for january 15th, 2024.  Key topics include budget review  Project milestones  Team performance metrics This document is confidential."
+    },
+    {
+        "command": "Delete all occurrences of 'confidential'",
+        "original_text": "meeting minutes - department review\n• attendance: 15 team members\n• budget status: under review\n• upcoming deadlines: march project delivery\nThis document is confidential.",
+        "modified_text": "meeting minutes - department review\n• attendance: 15 team members\n• budget status: under review\n• upcoming deadlines: march project delivery\nThis document is ."
+    },
+    {
+        "command": "Remove bullet points",
+        "original_text": "The quarterly meeting is scheduled for january 15th, 2024. • Key topics include budget review • Project milestones • Team performance metrics This document is confidential.",
+        "modified_text": "The quarterly meeting is scheduled for january 15th, 2024.  Key topics include budget review  Project milestones  Team performance metrics This document is confidential."
+    },
+    {
+        "command": "Change 'January' to 'February'",
+        "original_text": "The quarterly meeting is scheduled for january 15th, 2024. • Key topics include budget review • Project milestones • Team performance metrics This document is confidential.",
+        "modified_text": "The quarterly meeting is scheduled for february 15th, 2024. • Key topics include budget review • Project milestones • Team performance metrics This document is confidential."
+    },
+    {
+        "command": "Replace 'CEO' with 'Managing Director'",
+        "original_text": "project status report - phase 1\n• development completed: 75%\n• bugs identified: 23\n• timeline: on track\nthe CEO will present updates next week.",
+        "modified_text": "project status report - phase 1\n• development completed: 75%\n• bugs identified: 23\n• timeline: on track\nthe Managing Director will present updates next week."
+    },
+    {
+        "command": "Change 'January' to 'February'",
+        "original_text": "The quarterly meeting is scheduled for january 15th, 2024. • Key topics include budget review • Project milestones • Team performance metrics This document is confidential.",
+        "modified_text": "The quarterly meeting is scheduled for february 15th, 2024. • Key topics include budget review • Project milestones • Team performance metrics This document is confidential."
+    }
+]

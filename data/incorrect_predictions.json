@@ -1,0 +1,14 @@
+[
+    {
+        "command": "Delete all occurrences of 'confidential'",
+        "original": "The quarterly meeting is scheduled for january 15th, 2024. \u2022 Key topics include budget review \u2022 Project milestones \u2022 Team performance metrics This document is confidential.",
+        "expected": "The quarterly meeting is scheduled for january 15th, 2024. \u2022 Key topics include budget review \u2022 Project milestones \u2022 Team performance metrics This document is .",
+        "predicted": "The quarterly meeting is scheduled for january 15th, 2024. \u2022 Key topics include budget review \u2022 Project milestones \u2022 Team performance metrics This document is."
+    },
+    {
+        "command": "Delete all occurrences of 'confidential'",
+        "original": "meeting minutes - department review\n\u2022 attendance: 15 team members\n\u2022 budget status: under review\n\u2022 upcoming deadlines: march project delivery\nThis document is confidential.",
+        "expected": "meeting minutes - department review\n\u2022 attendance: 15 team members\n\u2022 budget status: under review\n\u2022 upcoming deadlines: march project delivery\nThis document is .",
+        "predicted": "meeting minutes - department review attendance: 15 team members budget status: under review upcoming deadlines: march project delivery This document is."
+    }
+]
